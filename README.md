@@ -1,4 +1,4 @@
-Book Finder AI (Recommendation Chatbot).
+Book Finder AI (Recommendation Chatbot)
 
 A Book Recommendation Chatbot that is an AI-powered Book Recommendation Chatbot designed by IBM Watson Assistant that is programmed to suggest users books through an interactive and convenient chat platform.
 
@@ -37,9 +37,7 @@ Recommendation-Chatbot
 
 🚀 Live Demo
 
-(Insert your Gitpages link here upon deployment)
-
-https://yourusername.github.io/Recommendation-Chatbot/
+https://ayush-28-design.github.io/Recommendation-Chatbot/
 
 ⚙️ How To Run Locally
 
